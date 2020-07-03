@@ -1,0 +1,26 @@
+[
+{
+    "id": "1",
+    "Title": "avatar",
+    "Poster": "media/avatar.jpg",
+    "Year": "1999",
+    "Type": "movie"
+
+},
+{
+    "id": "2",
+    "Title": "avatar",
+    "Poster": "media/avatar.jpg",
+    "Year": "1999",
+    "Type": "movie"
+
+},
+{
+    "id": "3",
+    "Title": "avatar",
+    "Poster": "media/avatar.jpg",
+    "Year": "1999",
+    "Type": "movie"
+
+}
+]
